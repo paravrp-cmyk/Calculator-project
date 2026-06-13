@@ -11,7 +11,7 @@ A sleek, fully responsive web calculator that visually and functionally recreate
   * Robust repeat-equals functionality (the `=` button sequentially duplicates the last operation).
   * Built-in protection against duplicate leading zeros (anti-"007" bug) and incorrect syntax placement.
   * Smart rounding for long floating-point decimals and clean division-by-zero handling ("Ошибка").
-* **Live page here:https://paravrp-cmyk.github.io/Calculator-project/
+* **Live page here:https://paravrp-cmyk.github.io/Calculator-project/**
 
 ## 🛠 Tech Stack
 
